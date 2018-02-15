@@ -1,0 +1,5 @@
+{
+ "private": true,
+ "name": "PxAlertLabel",
+ "main": "./AlertLabel.js"
+}

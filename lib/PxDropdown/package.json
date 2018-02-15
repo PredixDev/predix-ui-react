@@ -1,0 +1,5 @@
+{
+ "private": true,
+ "name": "PxDropdown",
+ "main": "./PxDropdown.js"
+}

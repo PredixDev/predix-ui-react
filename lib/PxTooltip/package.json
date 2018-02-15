@@ -1,0 +1,5 @@
+{
+ "private": true,
+ "name": "PxTooltip",
+ "main": "./PxTooltip.js"
+}

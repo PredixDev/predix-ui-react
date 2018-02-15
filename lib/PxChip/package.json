@@ -1,0 +1,5 @@
+{
+ "private": true,
+ "name": "PxChip",
+ "main": "./PxChip.js"
+}
