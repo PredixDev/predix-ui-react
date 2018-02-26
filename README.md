@@ -1,12 +1,7 @@
-<h1 align="center">React-Px</h1>
+<h1 align="center">react wrapper pwc</h1>
 
 ## Installation
 
-React-Px is available as an [npm package](https://www.npmjs.com/package/react-px).
-
-1. `npm install react-px --save`
-
-### What's the difference between React-Px and Predix Design System Polymer components?
 
 
 ## Usage
