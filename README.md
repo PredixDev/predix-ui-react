@@ -31,6 +31,4 @@ The most recent version will be available at [npm](https://www.npmjs.com/package
 
 Implement the rest of the Predix Design System Polymer components.
 
-## License
 
-This project is licensed under the terms of the MIT license.
